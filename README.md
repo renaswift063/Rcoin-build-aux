@@ -1,4 +1,4 @@
-Readercoin Core integration/staging tree
+Readercoin Core integration/staging tree [Bitcoin FORK]
 =====================================
 
 [![Build Status](https://travis-ci.org/readercoin/readercoin.svg?branch=master)](https://travis-ci.org/readercoin/readercoin)
